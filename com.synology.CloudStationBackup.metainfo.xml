@@ -8,12 +8,12 @@
   <url type="homepage">https://www.synology.com</url>
   <summary>Real-time backup saving you from massive data loss</summary>
   <description>
+    <p>**NOTE: This wrapper is not verified by, affiliated with, or supported by Synology Inc.**</p>
     <p>Featuring real-time incremental backup technology, your data stored on a PC can be backed up to a Synology NAS instantly, using minimal system resources, bringing a truly comprehensive and secure private cloud experience.</p>
-    <p>NOTE: This wrapper is not verified by, affiliated with, or supported by Synology Inc.</p>
     <p>NOTE: A system/status icon tray is required for this package to function correctly.</p>
   </description>
   <screenshots>
-    <screenshot>
+    <screenshot type="default">
       <image type="source">https://www.synology.com/img/dsm/desktop_backup/pc_protection_bg.png</image>
       <caption>Cloud Station Backup for PC protection</caption>
     </screenshot>
@@ -23,5 +23,5 @@
     <release version="4.3.3.1" release="4470" date="2022-06-30"/>
     <release version="4.3.3" release="4469" date="2020-05-12"/>
   </releases>
-  <content_rating type="oars-1.0" />
+  <content_rating type="oars-1.1" />
 </component>
